@@ -281,6 +281,9 @@ i + p{
     font-weight: bold;
     font-size: 1.2em;
     margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #how,#fre{
     text-align: center;
@@ -424,7 +427,6 @@ i + p{
     background-color:#080808 ;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
     padding: 20px;
   }
 
